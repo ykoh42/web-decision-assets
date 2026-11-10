@@ -21,7 +21,7 @@
   "files": {
     "model.wasm": {
       "bytes": 4469235,
-      "sha256": "deeb54c811be9e4f1aabe10c29c5fd4a23dc3e17f3d5792ebd58ab670a209f98"
+      "sha256": "ea7b56f3aeaa1962d43fc5b42998437e249b9021bbadf275e98356dc883f7036"
     },
     "tokenizer.json": {
       "bytes": 7031645,
