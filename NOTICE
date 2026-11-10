@@ -1,0 +1,13 @@
+web-decision native Kev model assets
+
+This repository contains derived model files for kev-0.6b-native-f32. The model
+combines the Apache-2.0 Kev adapter and pointer head from
+jaredpalmer/kev-0.6b at revision abe7110dedfd68a185839550079bcf7c26f561ac
+with Qwen/Qwen3-0.6B-Base at revision da87bfb608c14b7cf20ba1ce41287e8de496c0cd.
+The files are transformed into native TVM WebGPU weights and runtime artifacts.
+See LICENSES/ for the upstream Apache-2.0 texts. Training datasets retain their
+own terms.
+
+Sources:
+https://huggingface.co/jaredpalmer/kev-0.6b/tree/abe7110dedfd68a185839550079bcf7c26f561ac
+https://huggingface.co/Qwen/Qwen3-0.6B-Base/tree/da87bfb608c14b7cf20ba1ce41287e8de496c0cd
